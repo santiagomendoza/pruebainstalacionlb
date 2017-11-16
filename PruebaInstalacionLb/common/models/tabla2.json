@@ -1,0 +1,21 @@
+{
+  "name": "tabla2",
+  "plural": "tabla2",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "documento": {
+      "type": "string"
+    },
+    "correo": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

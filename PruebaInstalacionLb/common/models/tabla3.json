@@ -1,0 +1,21 @@
+{
+  "name": "tabla3",
+  "plural": "tabla3",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "padre": {
+      "type": "string"
+    },
+    "abuelo": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

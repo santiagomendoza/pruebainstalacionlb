@@ -1,0 +1,9 @@
+Intallar react
+prier comando:
+npm install -g create-react-app
+segundo:
+create-react-app mi-apicacion
+cd mi-aplicacion
+
+Iniciar el sevidor:
+npm start
